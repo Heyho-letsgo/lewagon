@@ -1,0 +1,32 @@
+/* style.css */
+body {
+margin: 0px;
+color: rgb(53, 148, 87);
+background: rgba(10,10,10,0.3);
+font-family: 'Open Sans', sans-serif;
+    background-image: url("http://lorempixel.com/1400/1000/nightlife");
+
+}
+h1{
+  color: rgba(212,57,43,1);
+    font-family: 'Lobster', cursive;
+}
+p{
+  font-size: 30px;
+  line-height: 20px;
+}
+
+#my_header{
+	text-align: center;
+	color:white;
+}
+
+.image{
+    background-color: whitesmoke;border-radius: 50%;
+}
+
+.lobster{
+    padding-top: 40px;
+    padding-bottom: 50px;
+			font-family: 'Lobster', cursive;
+	}
